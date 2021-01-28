@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Here are my challenges:
+The biggest challenge was working with the Android framework and all the predefined classes and functions that come with it.
 
 ## License
 
